@@ -1,5 +1,5 @@
 # Campus-Security-Alert-App
-Campus Security Alert App is the Native React mobile application built to connect the students and help them in rescue operation in case of emergency or threatening situations that takes place inside the Colleges and Universities.
+Campus Security Alert App is the Native React mobile application built to connect the students and help them in rescue operation in case of emergency or threatening situations that takes place inside the College and University Campuses.
 
 Follow the guidelines to set up the environment and run the code in Windows Environment 
 
