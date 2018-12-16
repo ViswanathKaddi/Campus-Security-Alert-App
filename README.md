@@ -37,7 +37,7 @@ react-native run-android
 
 9. Create the Android Emulator. Click on 'Tools' Window, select Android from the Dropdown and choose 'AVD Manager'. Create the Virtual Device
 
-10. Virtual Device helps us to run Android Operating System inside whatever Operating System we are using. Select the Device type like Nexus 5 keeping the size in mind that you want to work on. And select Android Version like Marshmallow, Nougat that you desire to work on. 
+10. Virtual Device helps us to run Android Operating System inside whatever Operating System we are using. Select the Device type like Nexus 5 with regard to their screen size. And select Android Version like Marshmallow, Nougat that you desire to work on. 
 
 11. Finally to run your React Native Project in Android Emulator. 
   * In Windows CLI, at the location of the project run command 'react-native run-android'
